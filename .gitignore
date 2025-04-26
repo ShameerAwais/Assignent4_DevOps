@@ -1,0 +1,8 @@
+# Ignore Terraform hidden folders and lock files
+.terraform/
+terraform/.terraform.lock.hcl
+
+# Ignore other system files (optional)
+*.exe
+*.log
+*.tmp
